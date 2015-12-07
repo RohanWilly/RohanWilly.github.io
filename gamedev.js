@@ -27,7 +27,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('babyjesusjpg')");
+		$("#exploreBody").css("background-image", "url('babyjesus.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
