@@ -27,7 +27,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('Pink_Limo_8001.jpg')");
+		$("#exploreBody").css("background-image", "url('products4c52007fee6f4.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
