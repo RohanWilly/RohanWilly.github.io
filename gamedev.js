@@ -53,7 +53,7 @@ $( document ).ready(function() {
 
 
 	$("#goBack").click(function() {
-		$("#exploreBody").css("background-image", "url('Obamacare.jpg')");
+		$("#exploreBody").css("background-image", "url('img/Obamacare.jpg')");
 		$("#goBack").hide();
 		$("#goRight1").show();
 		$("#goLeft1").show();
